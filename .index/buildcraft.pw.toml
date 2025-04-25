@@ -1,0 +1,13 @@
+filename = 'buildcraft-7.1.27.jar'
+name = 'Buildcraft'
+side = 'both'
+
+[download]
+hash = '2519edb9bbee1ea841829057265d683764f13c79'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6240755
+project-id = 61811

@@ -1,0 +1,13 @@
+filename = 'GuiElevator-[1.7.10] 2.1.jar'
+name = "Elrol's GUI Elevator"
+side = 'both'
+
+[download]
+hash = '3eaca9331ed8a4c32fa5bc7a3d9ecb54117f87b4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2387284
+project-id = 241067
