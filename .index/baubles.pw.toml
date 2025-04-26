@@ -1,0 +1,13 @@
+filename = 'Baubles-1.7.10-1.0.1.10.jar'
+name = 'Baubles'
+side = 'both'
+
+[download]
+hash = 'b6e6ce2d0476d1d53686440f2fc70d2a27e289c2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2224857
+project-id = 227083

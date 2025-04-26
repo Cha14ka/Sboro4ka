@@ -1,0 +1,4 @@
+6.0.0 26-04-2025 16:25:09 Starting new session. Mods: examplemod 
+6.0.0 26-04-2025 16:25:23 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.0 26-04-2025 16:25:25 MAJOR: null: Loading language: ru_RU
+6.0.0 26-04-2025 16:25:25 MAJOR: null: Language loaded: ru_RU. Wand name: Жезл Создания Wand invitem name: item.ml_villageWand.name
