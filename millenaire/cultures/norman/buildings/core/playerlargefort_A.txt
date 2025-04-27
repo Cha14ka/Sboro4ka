@@ -1,0 +1,7 @@
+native:Forteresse;around:4;startLevel:-1;orientation:3;width:35;length:31;tag:Patrol;signs:2,1,3,5,7,8,6,4,0;tag:playerth
+priority:500;rebuildpath:true
+
+
+
+subbuilding:largefort_A_armoury
+subbuilding:largefort_A_barrack

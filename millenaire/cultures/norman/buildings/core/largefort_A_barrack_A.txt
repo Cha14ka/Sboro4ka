@@ -1,0 +1,1 @@
+type:subbuilding;priority:1000;native:Salle des guardes;around:4;orientation:3;startLevel:-1;width:35;length:31;moveinpriority:15;male:guard;male:guard

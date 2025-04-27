@@ -1,0 +1,531 @@
+{| class="wikitable"
+|-
+! Requirements Template Building Name
+|-
+! Frourio~playerfortbyzantine
+|-
+! Psaras Spiti
+|-
+! Alsos
+|-
+! Krebati~barracksbyzantine_A_bed
+|-
+! Frourio~fortbyzantine
+|-
+! Mikro Spiti
+|-
+! Doro spiti
+|-
+! Boske Probaton
+|-
+! Demarcheio
+|-
+! Sirotrofia
+|-
+! Apomonomeno Boske Probaton
+|-
+! Agrotema
+|-
+! Archaio theatro
+|-
+! Synergio
+|-
+! null~loneCastle_A_praying
+|-
+! Latomeio
+|-
+! Ampelonas
+|-
+! Chani
+|-
+! Mono Paratiritio~pinetower
+|-
+! Mono Paratiritio~jungletower
+|-
+! Prebyterio
+|-
+! Taverna
+|-
+! Chalkeio~forgebyzantine
+|-
+! Pandocheio
+|-
+! Pharos
+|-
+! Technites Spiti
+|-
+! Orthodoxe Ekklesia
+|-
+! Chalkeio~playerfortbyzantine_A_forge
+|-
+! Monachikos Kastro
+|-
+!  
+|-
+! Mono Paratiritio~birchtower
+|-
+! Krebati~fortbyzantine_A_bed3
+|-
+! Krebati~fortbyzantine_A_bed1
+|-
+! Krebati~fortbyzantine_A_bed2
+|-
+! Krebati~playerfortbyzantine_A_bed3
+|-
+! Mono Paratiritio~oaktower
+|-
+! Krebati~playerfortbyzantine_A_bed2
+|-
+! Krebati~playerfortbyzantine_A_bed1
+|-
+! Chalkeio~fortbyzantine_A_forge
+|-
+! Astiko Chorio
+|-
+! Stratones
+|-
+! Parekklesi
+|-
+! Fournos
+|-
+! Basilike~placebyzantine_A_basilica
+|-
+! Basilike~basilkabyzantine
+|-
+! Paratereteio
+|-
+! Freatio
+|-
+! Bomos
+|-
+! Xylokopos Spiti
+|-
+! null~loneCastle_A_training
+|-
+! Archiao Nao
+|-
+! Bari saajisa
+|-
+! Choti saajisa
+|-
+! Puraalekhagar
+|-
+! Sena-Nivaas
+|-
+! Pandit ka Ghar
+|-
+! Lakarhara ka Ghar
+|-
+! Sainik ka Ghar
+|-
+! Bangla
+|-
+! Mahal~playerpalace
+|-
+! Int bhatta
+|-
+! Bhare Ghar
+|-
+! Chota ghar
+|-
+! Uphar ghar
+|-
+! Muurtikaar ka Ghar
+|-
+! Dusra Ghar
+|-
+! Saray
+|-
+! Chota Mandir
+|-
+! Mukhiya ka Ghar
+|-
+! Baoli
+|-
+! Purana Qila
+|-
+! Bazaar
+|-
+! Sadhu ke Peer
+|-
+! Mahal~palace
+|-
+! Kisaan ka Ghar
+|-
+! Sunsan har
+|-
+! Saraay
+|-
+! Masaalaa udyaan
+|-
+! Gannaa baagaana
+|-
+! Sena ka Bhati
+|-
+! Sikaar
+|-
+! Qila ka Bhati
+|-
+! Kunja
+|-
+! Gaanv ka Mandir
+|-
+! Visaala saajisa
+|-
+! Bhati
+|-
+! Adivasi ka Ghar
+|-
+! Tandurust
+|-
+! Qila
+|-
+! Sunsan Saray
+|-
+! Chota Saraay
+|-
+! Dhaan
+|-
+! Ike
+|-
+! Daidokoro
+|-
+! Tsuribori
+|-
+! Onsenmachi~hotspringsinn_A_market
+|-
+! Kouku
+|-
+! Shijin
+|-
+! Buttou
+|-
+! Iwamuro no Hito
+|-
+! Bourou
+|-
+! Shakuchi
+|-
+! Shugi ie
+|-
+! Okurimono hausu
+|-
+! Zokuto no Bakusha
+|-
+! Ika Sakuba
+|-
+! Youkeijou
+|-
+! Kodachi
+|-
+! Saisekijou
+|-
+! Suiden
+|-
+! Tansetsu~japanesearmyforge
+|-
+! Kai Ie
+|-
+! Noufu Ie
+|-
+! Sentou
+|-
+! Tansetsu~japaneseforge
+|-
+! Ichiba
+|-
+! Daibutsu
+|-
+! Yaba
+|-
+! Reinousha Ie
+|-
+! Densha
+|-
+! Bousai
+|-
+! Mokuzoukaoku
+|-
+! Kikori Koya
+|-
+! Yashiro
+|-
+! Kofun
+|-
+! Chiisai Ie
+|-
+! Onsenmachi~hotspringsinn
+|-
+! Shuudannoujou
+|-
+! Shoko
+|-
+! Soushi
+|-
+! Tsukurizakaya
+|-
+! Eki Tochi
+|-
+! Chuugata Chisho
+|-
+! Kumonjo
+|-
+! Zenshou
+|-
+! Heisha
+|-
+! Ido
+|-
+! Onsenmachi~hotspringsinn_A_kitchen
+|-
+! Noujou Nojo
+|-
+! Jalab
+|-
+! Keban Muul~questpyramid_jail
+|-
+! Ajaw Cah~mayancamp_dig
+|-
+! Sa'at Tunich In-ti'a'al
+|-
+! Maya Otoch
+|-
+! Zil Otoch
+|-
+! Ah Kax Makan
+|-
+! Ah Tz'on Si' Took
+|-
+! Ajaw Cah~mayancamp_wall
+|-
+! K'eyem
+|-
+! K'as Maya
+|-
+! Kanan Otoch~questbarrack
+|-
+! K'u-nah
+|-
+! Kanan Otoch~questcamphouse
+|-
+! K'as Otoch
+|-
+! Chak Muul
+|-
+! Maize Makan
+|-
+! Kak Actun~questcave
+|-
+! Uxul Otoch
+|-
+! Keban Muul~questpyramid_guards
+|-
+! Hu'um-Noh
+|-
+! Ah Waay Su'uk~mayanshamangrounds
+|-
+! Ch'en~lonemayancave
+|-
+! Ka'kau' Makan
+|-
+! K'uhul Jalab
+|-
+! Yalam Otoch
+|-
+! Sa'at Maya Maize Makan
+|-
+! Ajaw Cah~mayancamp_innerguard
+|-
+! Muul~lonemayanpyramid
+|-
+! Chak
+|-
+! Ix La' Nah
+|-
+! Cha'an Ka'nal~mayanwatchtower
+|-
+! Ah Waay Su'uk~lonemayanshaman
+|-
+! Sa'at Muul
+|-
+! Noh Kuuch
+|-
+! Kan Cha'an
+|-
+! Muul~mayanplayerpyramid
+|-
+! Ch'en~mayancave
+|-
+! Ciwic
+|-
+! Ajaw Cah~mayancamp_outerguard
+|-
+! K'as Koloh-che'
+|-
+! Cha'an Ka'nal~questguardtower
+|-
+! Pwes
+|-
+! Ni'Nah
+|-
+! Maya Makan
+|-
+! Ajaw Cah~mayancamp
+|-
+! K'in Pak
+|-
+! Sa'at Maya Otoch
+|-
+! Tunich In-ti'a'al
+|-
+! Chanan Nah
+|-
+! B'aat Winik Nah
+|-
+! Muul~mayanpyramid
+|-
+! Chumuk Kuuch
+|-
+! Kob Took
+|-
+! K'aax
+|-
+! Mehen Kuuch
+|-
+! Keban Muul~questpyramid_pit
+|-
+! Kak Actun~questcave_door
+|-
+! Ta'as Kob Took
+|-
+! Laak'Noh Nah
+|-
+! Keban Muul~questpyramid
+|-
+! Noh Muul
+|-
+! Hach Noh Nah
+|-
+! Hach Noh Otoch
+|-
+! Grand terrain
+|-
+! Petit terrain
+|-
+! Fontaine
+|-
+! Repère de bandits
+|-
+! Elevage Porcin
+|-
+! Maison bourgeoise
+|-
+! Presbytère
+|-
+! Mine
+|-
+! Atelier d'Alchimie
+|-
+! Petite maison
+|-
+! Maison bonus
+|-
+! Manoir
+|-
+! Forteresse~playerlargefort
+|-
+! Mine Abandonnée
+|-
+! Anomalie Une
+|-
+! Taverne
+|-
+! Ferme
+|-
+! Panthéon
+|-
+! Château Félon
+|-
+! Boulangerie
+|-
+! Maison du guarde
+|-
+! Tour de guet
+|-
+! Maison du charpentier
+|-
+! Carrière
+|-
+! Armurerie~largefort_A_armoury
+|-
+! Marché
+|-
+! Hutte de Bûcheron~lonelumbermanhut
+|-
+! Ferme en ruine
+|-
+! Tour de garde~fort_A_righttower
+|-
+! Forge
+|-
+! Elevage Bovin
+|-
+! Salle des guardes
+|-
+! Relais
+|-
+! Forteresse~largefort
+|-
+! Tour d�truite
+|-
+! Archives du village
+|-
+! Moulin Abandonné
+|-
+! Chapelle
+|-
+! Hôtel particulier
+|-
+! Abbaye~abbey
+|-
+! Hutte de Bûcheron~lonelumbermantaigahut
+|-
+! Abbaye~loneabbey
+|-
+! Fort~playerfort
+|-
+! Moulin à eau isolé
+|-
+! Tour des bandits
+|-
+! Grande Fontaine
+|-
+! Elevage Ovin
+|-
+! Auberge isolée
+|-
+! Auberge
+|-
+! Anomalie Trois
+|-
+! Tour de garde~fort_A_lefttower
+|-
+! Hutte de Bûcheron~lumbermanhut
+|-
+! Tour de l'Alchimiste
+|-
+! Hall de la Guilde
+|-
+! Armurerie~armoury
+|-
+! Bosquet
+|-
+! Très grand terrain
+|-
+! Puit
+|-
+! Fort~fort
+|-
+! Anomalie Deux
+|-
+|}

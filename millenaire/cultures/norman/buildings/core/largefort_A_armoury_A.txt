@@ -1,0 +1,1 @@
+type:subbuilding;priority:1000;native:Armurerie;around:4;orientation:3;startLevel:-1;width:35;length:31;shop:armoury;tag:armoury;moveinpriority:15;male:smith;female:Wife
