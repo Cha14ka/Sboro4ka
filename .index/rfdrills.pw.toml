@@ -1,0 +1,13 @@
+filename = 'RFDrills-1.7.10-1.7.3.jar'
+name = 'RFDrills'
+side = 'both'
+
+[download]
+hash = 'f90dc33175ab4d7d8acb1365dfd299ffa3a8c232'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2273563
+project-id = 229846
