@@ -1,0 +1,13 @@
+filename = 'BrandonsCore-1.0.0.12.jar'
+name = 'Brandons Core'
+side = 'both'
+
+[download]
+hash = '18e6d6b5ca08c28d951e0f2c5a64997ca0002e3168bf1ae5bd29bca2bd21e51e15620e55c85383b64a5c25bd8dc65b10149000c7df6d458b78093f4a9d7c35e5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/iFDWVIFV/versions/YMQViTRv/BrandonsCore-1.0.0.12.jar'
+
+[update.modrinth]
+mod-id = 'iFDWVIFV'
+version = 'YMQViTRv'
