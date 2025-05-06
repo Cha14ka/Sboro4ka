@@ -1,0 +1,13 @@
+filename = 'tfmg-0.9.3-1.20.1.jar'
+name = 'Create: The Factory Must Grow'
+side = 'both'
+
+[download]
+hash = '14b8d26744d841784e495ecf24a189145a859266ec2cff74e1cee46a4b05873ecec033ae8d82b137f508f9361ea0b14c18cd6365afc1887b8139e76469ef2db6'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/USgVjXsk/versions/X2HJdwy8/tfmg-0.9.3-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'USgVjXsk'
+version = 'X2HJdwy8'
