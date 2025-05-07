@@ -1,0 +1,13 @@
+filename = 'structureessentials-1.20.1-4.7.jar'
+name = 'Structure Essentials[Forge/Fabric]'
+side = 'both'
+
+[download]
+hash = 'c216ea632cda04c1c1378f7468408b4b534f5b2f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6420202
+project-id = 832882

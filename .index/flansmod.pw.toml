@@ -1,0 +1,13 @@
+filename = 'flansmod-1.20.1-0.4.316.jar'
+name = "Flan's Mod: Reloaded"
+side = 'both'
+
+[download]
+hash = 'ae6120c2b0739a597fef500616ad4476da8d2b943f2da880a951c74df6122d97ac21d392e103265f1c6959e9f177f19e6db1d9fe8d98ec4555559c38498e4ac2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/9tJvvpYE/versions/d2bf2lAL/flansmod-1.20.1-0.4.316.jar'
+
+[update.modrinth]
+mod-id = '9tJvvpYE'
+version = 'd2bf2lAL'

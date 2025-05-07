@@ -1,0 +1,13 @@
+filename = 'TConstruct-1.20.1-3.9.2.37.jar'
+name = "Tinkers' Construct"
+side = 'both'
+
+[download]
+hash = 'bd3f8d94cb3f1cdb731823fc5c1d202bba5b08ba9c393cfef2645568291b3e5e744394887a9f9f3db51569bf0736d4e131bb85da0818d71416cbd849ba9367dd'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/rxIIYO6c/versions/z61vnfy7/TConstruct-1.20.1-3.9.2.37.jar'
+
+[update.modrinth]
+mod-id = 'rxIIYO6c'
+version = 'z61vnfy7'

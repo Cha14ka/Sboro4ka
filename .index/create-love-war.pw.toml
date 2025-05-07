@@ -1,0 +1,13 @@
+filename = 'createloveandwar-0.4.1-1.20.1-Create-0.5.1.jar'
+name = 'Create: Love & War'
+side = 'both'
+
+[download]
+hash = '6c2ea46cc66f6391fb0ac8e0f4e05f2079fdf1689974e8c151b3a70da0e2d04582b005f3effccf152ddf00bf439bfec99cae4bcb71882cd7ff19dcc96bd0dd6d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/71LJXmxX/versions/8zeTMrGP/createloveandwar-0.4.1-1.20.1-Create-0.5.1.jar'
+
+[update.modrinth]
+mod-id = '71LJXmxX'
+version = '8zeTMrGP'
