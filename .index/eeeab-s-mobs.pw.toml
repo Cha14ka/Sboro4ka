@@ -1,0 +1,13 @@
+filename = 'eeeabsmobs-1.20.1-0.97-Fix.jar'
+name = "EEEAB 's Mobs"
+side = 'both'
+
+[download]
+hash = 'd428671cba959aaedba1b38aaa8232d846d41bbba60c026f023128dbbf642d3b013364a8f6ccf18e12b371ec31ed69fecabd1676eccdbc38e719fe60615f0e60'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/N8MNCv66/versions/NaWjW8bl/eeeabsmobs-1.20.1-0.97-Fix.jar'
+
+[update.modrinth]
+mod-id = 'N8MNCv66'
+version = 'NaWjW8bl'

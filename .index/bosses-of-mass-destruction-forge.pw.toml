@@ -1,0 +1,13 @@
+filename = 'BOMD-Forge-1.20.1-1.1.2.jar'
+name = 'Bosses of Mass Destruction Forge'
+side = 'both'
+
+[download]
+hash = 'f67acaec9e34ec8b580aaf69f98c05067feff996156c7ee9c2d8372f8544dad73d9fe942a5c43db687caf47c1f0c8f3d3d318e5fb0c87bfcf702242218cf81ab'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/hFUzfDsn/versions/2Kw4xPhp/BOMD-Forge-1.20.1-1.1.2.jar'
+
+[update.modrinth]
+mod-id = 'hFUzfDsn'
+version = '2Kw4xPhp'

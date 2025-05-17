@@ -1,13 +1,13 @@
-filename = 'lionfishapi-2.4.jar'
-name = 'Lionfish-API'
+filename = 'lionfishapi-2.4-Fix.jar'
+name = 'Lionfish API'
 side = 'both'
 
 [download]
-hash = '08712bbd71cfd6f6187a54a1373a82a017ed2a6de989d641f70e60b67e82cb80dbe27dbe55d8315a4f006444057ac10670c6f61b230ad1d6d9eb1d7b37baeac0'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/FoVacERa/versions/KZh3Mkcu/lionfishapi-2.4.jar'
+hash = 'b198f38fb27dfc6db490b496d56aa1622d5a5b87'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update.modrinth]
-mod-id = 'FoVacERa'
-version = 'KZh3Mkcu'
+[update.curseforge]
+file-id = 5922047
+project-id = 1001614
